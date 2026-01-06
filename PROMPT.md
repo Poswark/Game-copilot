@@ -35,7 +35,7 @@ Crea exactamente **4 archivos**:
 - **Controles**: Desktop (Espacio/Flecha Arriba), Móvil (Tap)
 
 ### Sistema de Preguntas (Característica Principal)
-- **Frecuencia**: Cada 5 segundos de juego activo
+- **Frecuencia**: Cada 15 segundos de juego activo
 - **Tipo**: Preguntas de respuesta múltiple sobre DevOps
 - **Mecánica**: 
   - El juego se pausa al mostrar la pregunta
